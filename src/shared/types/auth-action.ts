@@ -1,0 +1,1 @@
+export type AuthActionType = "sign-in" | "sign-up";
