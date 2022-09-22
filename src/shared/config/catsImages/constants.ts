@@ -1,0 +1,2 @@
+export const GUEST_CAT="https://appstickers-cdn.appadvice.com/1444979733/829458602/1f55fb0bd4a492ac4d3c7ec1de8ac1ec-3.gif";
+export const AUTORIZED_CAT="https://appstickers-cdn.appadvice.com/1444979733/829458602/3e7fa6713db2d7c085dc02e5f19784fe-6.gif";
